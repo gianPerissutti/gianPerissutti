@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @gianPerissutti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Gianfranco Perissutti
 
-- ⚡ Fun fact: ...
+## About Me
 
-<!---
-gianPerissutti/gianPerissutti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Gianfranco Perissutti, an Electrical Engineering student with a passion for robotics, critical systems, and IoT projects. I thrive on hands-on experiences, constantly expanding my knowledge through practical applications and projects.
+
+- 🔌 Currently studying Electrical Engineering
+- 🤖 Passionate about Robotics
+- 💡 Interested in Critical Systems and IoT
+- 🌱 Always learning and exploring new technologies
+
+## Contact Me
+
+📧 Email: perissuttigianfranco@gmail.com  
+🔗 LinkedIn: [Gianfranco Perissutti](https://www.linkedin.com/in/gianfranco-perissutti/)
+
