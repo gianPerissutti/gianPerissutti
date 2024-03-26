@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Gianfranco Perissutti, an Electrical Engineering student with a passion for robotics, critical systems, and IoT projects. I thrive on hands-on experiences, constantly expanding my knowledge through practical applications and projects.
+I'm Gianfranco Perissutti, an Electronics Engineering student with a passion for robotics, critical systems, and IoT projects. I thrive on hands-on experiences, constantly expanding my knowledge through practical applications and projects.
 
 - 🔌 Currently studying Electrical Engineering
 - 🤖 Passionate about Robotics
